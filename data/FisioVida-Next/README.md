@@ -36,3 +36,4 @@ Depois abra `http://localhost:3000`.
 ## Observação
 
 O backend Java ainda não foi conectado porque ele não faz parte do arquivo HTML enviado. Portanto, esta versão mantém as funcionalidades que já existiam no protótipo e deixa a integração REST preparada sem inventar endpoints.
+Teste de sincronização
